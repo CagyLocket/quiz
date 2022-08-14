@@ -1,0 +1,5 @@
+# npm i express-generator
+
+# automatyczne odświeżanie zmian
+npm i -g nodemon
+
